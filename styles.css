@@ -1,0 +1,25 @@
+/* Estilo inline para a tag <p> */
+p {
+    color: blue;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* Estilos para tags h1, h3 (classe h1h3) */
+.h1h3 {
+    color: red;
+    text-align: left;
+    background-color: yellow;
+}
+
+/* Estilos para tags h2, h4 (classe h2h4) */
+.h2h4 {
+    color: green;
+    text-align: right;
+    background-color: lightgray;
+}
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
